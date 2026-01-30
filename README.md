@@ -1,6 +1,6 @@
 🌸 Personal Portfolio Website
 
-![Portfolio Preview](public/preview/portfolio.png)
+![Portfolio Preview](preview/portfolio.png)
 
 A modern, responsive personal portfolio website built using React and Tailwind CSS.
 This project showcases my work, skills, and experience as a Frontend Developer, with a focus on clean UI, smooth interactions, and a minimal design aesthetic.
@@ -54,5 +54,5 @@ http://localhost:5173
 
 📸 Preview
 
-![about section](public/preview/portfolio1.png)
-![projects section](public/preview/portfolio2.png)
+![about section](preview/portfolio1.png)
+![projects section](preview/portfolio2.png)
